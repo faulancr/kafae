@@ -1,6 +1,6 @@
 {
   "name": "kafae",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Goodbye Flo",
   "repository": {
     "type": "git",
@@ -8,9 +8,7 @@
   },
   "main": "index.js",
   "bin": {
-    "kafae": "bin/kafae.js",
-    "hilfe": "bin/help.js",
-    "selfie": "bin/selfie.js"
+    "kafae": "bin/kafae.js"
   },
   "publishConfig": {
     "access": "public"
