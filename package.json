@@ -1,0 +1,30 @@
+{
+  "name": "@faulancr/kafae",
+  "version": "1.0.0",
+  "description": "Goodbye Flo",
+  "main": "index.js",
+  "bin": {
+    "sindi": "bin/kafae_sindi.js",
+    "kafae": "bin/kafae.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "type": "module",
+  "scripts": {
+    "hi": "node index",
+    "goodbye": "node goodbye"
+  },
+  "keywords": [
+    "abolarm",
+    "flo",
+    "goodbye",
+    "abobabos"
+  ],
+  "author": "aboalarm - dirk doering",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "esm": "^3.2.25"
+  }
+}
