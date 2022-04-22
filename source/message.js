@@ -1,3 +1,4 @@
+import chalk from 'chalk';
 export default function(key) {
     const messages = {
         "sindi": "Flo has always given the best sprint names!",

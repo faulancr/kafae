@@ -1,6 +1,6 @@
 import chalk from 'chalk';
-import message from './message';
-import selfie from './selfie';
+import message from './message.js';
+import selfie from './selfie.js';
 export default function cli(args){
     switch(args[2]) {
         case "help":
