@@ -1,10 +1,12 @@
 {
-  "name": "@faulancr/kafae",
+  "name": "kafae",
   "version": "1.0.0",
   "description": "Goodbye Flo",
   "main": "index.js",
   "bin": {
-    "kafae": "bin/kafae.js"
+    "kafae": "bin/kafae.js",
+    "hilfe": "bin/help.js",
+    "selfie": "bin/selfie.js"
   },
   "publishConfig": {
     "access": "public"
@@ -17,7 +19,7 @@
     "goodbye",
     "abobabos"
   ],
-  "author": "aboalarm - dirk doering",
+  "author": "aboalarm - dirk doering <hello@dirkdoering.de>",
   "license": "MIT",
   "dependencies": {
     "chalk": "^5.0.1",
