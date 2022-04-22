@@ -1,5 +1,9 @@
 import chalk from 'chalk';
 
 export default function cli(args){
-    console.log(chalk.blue('Hello world!'));
+    const messages = {
+        "sindi": "Flo has always given the best sprint names!",
+        "Dirk": "Message from Dirk!"
+    };
+    console.log(chalk.blue(messages[args[2]]));
 }
