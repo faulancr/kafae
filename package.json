@@ -1,7 +1,11 @@
 {
   "name": "kafae",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Goodbye Flo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faulancr/kafae"
+  },
   "main": "index.js",
   "bin": {
     "kafae": "bin/kafae.js",
