@@ -5,7 +5,7 @@ export default function(key) {
         "dirk": "Message from Dirk!",
         "andi": "Message from andi!",
         "tschela": "Message from tschela!",
-        "beri": "Message from beri!",
+        "beri": "Thanks Flo for the great mood you brought to the team!",
         "lorela": "Message from lorela!",
         "kathi": "Message from kathi!",
         "kathrin": "Message from kathrin!",
