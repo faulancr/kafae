@@ -16,7 +16,7 @@ Um dein npm Repository zu erhalten musst du folgende Schritte durchführen:
 
 1. In deinen Projektordner wechseln
 2. `npm i kafae -g` ausführen
-3. `kafae hilfe` ausführen
+3. `kafae help` ausführen
 4. Viel Spaß mit dem Repository
 
 ## Status
